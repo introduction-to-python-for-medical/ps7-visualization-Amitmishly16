@@ -1,1 +1,23 @@
+'Analysis of CRIM and AGE
 
+The relationship between CRIM (crime rate) and AGE (proportion of houses built before 1940) was explored using a scatter plot and the correlation matrix.
+
+Observations:
+
+	•	The scatter plot shows a positive trend between CRIM and AGE, indicating that towns with a higher proportion of older housing units tend to have higher crime rates.
+	•	This relationship suggests that as the age of housing increases (higher AGE values), the crime rate also increases in those areas.
+
+Correlation Coefficient:
+
+	•	The correlation plot reveals a positive correlation between CRIM and AGE, with a moderate strength (approximately +0.4).
+	•	A correlation value in this range suggests that the relationship is not perfect but still noticeable.
+
+Possible Explanation:
+Older housing units might be associated with:
+
+	1.	Lower socio-economic conditions: Towns with older infrastructure may have fewer resources for renovation and community development, potentially leading to higher crime rates.
+	2.	Population Density: Older neighborhoods may be more densely populated, which can correlate with increased crime rates.
+	3.	Urban Decay: Areas with older housing might experience urban decline, leading to socio-economic challenges and higher crime rates.
+
+Conclusion:
+There is a clear positive correlation between CRIM and AGE, indicating that towns with older housing tend to experience higher crime rates. This trend could reflect socio-economic factors and infrastructure challenges in these areas.'
