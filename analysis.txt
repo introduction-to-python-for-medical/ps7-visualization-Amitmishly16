@@ -1,24 +1,23 @@
-'Analysis of CRIM and AGE
+ניתוח של CRIM ו-AGE
 
-to explore the relationship between CRIM (crime rate) and AGE (proportion of houses built before 1940) i used a scatter plot graph.
+לצורך חקר הקשר בין CRIM (שיעור הפשיעה) ו-AGE (חלק הבתים שנבנו לפני 1940), השתמשתי בגרף פיזור.
 
-Observations:
+תצפיות:
 
-	•	The scatter plot shows a positive trend between CRIM and AGE, indicating that towns with a higher proportion of older housing units tend to have higher crime rates.
-	•	This relationship suggests that as the age of housing increases (higher AGE values), the crime rate also increases in those areas.
+•	גרף הפיזור מציג מגמה חיובית בין CRIM ל-AGE, מה שמעיד על כך שיישובים עם חלק גבוה יותר של יחידות דיור ישנות נוטים להיות בעלי שיעורי פשיעה גבוהים יותר.
+•	הקשר הזה מצביע על כך שכאשר גיל הדירות עולה (ערכים גבוהים יותר של AGE), שיעור הפשיעה גם עולה באזורים הללו.
 
-Correlation:
+קשר:
 
-	•	The correlation plot reveals a positive correlation between CRIM and AGE, with a moderate strength.
-	•	A correlation value of this nature suggests that the relationship is not perfect but still noticeable.
+•	גרף הקורלציה חושף קשר חיובי בין CRIM ל-AGE, עם עוצמה בינונית.
+•	ערך קורלציה כזה מעיד על כך שהקשר אינו מושלם אך עדיין ניתן להבחין בו.
 
-Possible Explanation:
-Older housing units might be associated with:
+הסבר אפשרי:
+יחידות דיור ישנות עשויות להיות קשורות ל:
 
-	1.	Lower socio-economic conditions: Towns with older infrastructure may have fewer resources for renovation and community development, potentially leading to higher crime rates.
-	2.	Population Density: Older neighborhoods may be more densely populated, which can correlate with increased crime rates.
-	3.	Urban Decay: Areas with older housing might experience urban decline, leading to socio-economic challenges and higher crime rates.
+	1.	מצב סוציו-אקונומי נמוך: יישובים עם תשתיות ישנות עשויים להיות עם פחות משאבים לשיפוץ ולפיתוח קהילתי, מה שיכול להוביל לשיעורי פשיעה גבוהים יותר.
+	2.	צפיפות אוכלוסין: שכונות ישנות עשויות להיות צפופות יותר, דבר שעשוי להיות קשור לשיעורי פשיעה גבוהים יותר.
+	3.	התדרדרות עירונית: אזורים עם דיור ישן עשויים לחוות דעיכה עירונית, דבר שיכול להוביל לאתגרים סוציו-אקונומיים ולשיעורי פשיעה גבוהים יותר.
 
-Conclusion:
-There is a clear positive correlation between CRIM and AGE, indicating that towns with older housing tend to experience higher crime rates. This trend could reflect 
- on the socio-economic status of these areas.'
+סיכום:
+יש קשר חיובי ברור בין CRIM ל-AGE, מה שמעיד על כך שיישובים עם דיור ישן נוטים לחוות שיעורי פשיעה גבוהים יותר. מגמה זו עשויה לשקף את המצב הסוציו-אקונומי של האזורים הללו.
